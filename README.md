@@ -2,7 +2,7 @@
 
 - 🍰 I’m interested in **Cybersecurity**
 - 🌻 I'm do Penetration Testing, Bug Hunting, and Capture the Flag
-- 🔬 Currently CTF Player on <b>Heroes Cyber Security</b> and Penetration Tester on <b>DPTSI ITS</b>
+- 🔬 Currently CTF Player on <b>Heroes Cyber Security</b> and Penetration Tester on <b>Protergo</b>
 
 My CTF write ups, mostly about web exploitation.
 - [hackmd.io/@abdinata](https://hackmd.io/@abdinata)
